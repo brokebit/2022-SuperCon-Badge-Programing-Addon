@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"SW2,SW4,SW3,SW6";"SW_PUSH_6mm";4;"SW_Push";;;
+2;"C3,C1,C4,C2";"C_0603_1608Metric";4;"C";;;
+3;"D2,D5,D4,D3";"LED_0805_2012Metric";4;"LED";;;
+4;"R3,R5,R4,R2,R1";"R_0603_1608Metric";5;"R_US";;;
+5;"D1";"SOT-143";1;"SP0503BAHT";;;
+6;"SW7,SW5";"SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile";2;"SW_DIP_x04";;;
+7;"J1";"USB_Micro-B_Amphenol_10118194_Horizontal";1;"USB_B_Mini";;;
+8;"SW1";"SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile";1;"SW_DIP_x02";;;
+9;"U1";"SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm";1;"CP2102N-Axx-xQFN20";;;
+10;"J4";"PinHeader_1x12_P2.54mm_Horizontal";1;"Conn_01x12_Male";;;
+11;"J5";"PinHeader_1x12_P2.54mm_Horizontal";1;"Conn_01x12_Female";;;
