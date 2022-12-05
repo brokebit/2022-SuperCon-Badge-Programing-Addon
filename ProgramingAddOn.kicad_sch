@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "SuperCon Badge Programer with USB")
+    (date "11/12/22")
+    (rev "v0.1")
+    (company "Eric Dynowski")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x12_Female" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 15.24 0)
