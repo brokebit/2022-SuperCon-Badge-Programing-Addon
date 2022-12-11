@@ -2385,7 +2385,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 881c7662-0b24-4914-99ae-23643aa9c762)
     )
-    (fp_text value "USB_B_Mini" (at 0 4.75 90) (layer "F.Fab")
+    (fp_text value "USB_B_Micro" (at 0 4.75 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a8c40d02-c652-4057-a9ad-94f17cdaa7b2)
     )

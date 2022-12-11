@@ -2647,7 +2647,7 @@
     (property "Reference" "J1" (id 0) (at 35.56 85.0899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "USB_B_Mini" (id 1) (at 46.99 95.25 0)
+    (property "Value" "USB_B_Micro" (id 1) (at 46.99 95.25 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal" (id 2) (at 45.72 85.09 0)
@@ -2886,7 +2886,7 @@
       (reference "D5") (unit 1) (value "50 Ohms") (footprint "LED_SMD:LED_0805_2012Metric")
     )
     (path "/b78efc52-662a-4eed-bdbe-033b4b358b00"
-      (reference "J1") (unit 1) (value "USB_B_Mini") (footprint "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal")
+      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal")
     )
     (path "/0af65d1a-8a8e-409f-ae96-fab30774b7ba"
       (reference "J4") (unit 1) (value "Conn_01x12_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Horizontal")
